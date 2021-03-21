@@ -67,4 +67,4 @@ Desenvolvido para treinar conceitos como:
 <h2>
 📝 Licença
 </h2>
-Este projeto esta sobe a licença [MIT](./LICENSE).
+Este projeto está sob a licença [MIT](./LICENSE).
